@@ -2,9 +2,12 @@
 a{
 	color: rgb(27,27,27);
 	text-decoration: none;
-	padding: 439px;
 }
 .media-icons{
+	display: flex;
+	justify-content: space-evenly;
+}
+.link-boxes{
 	display: flex;
 	justify-content: space-evenly;
 }
